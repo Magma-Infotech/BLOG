@@ -1,4 +1,4 @@
-#Magma Infotech Blog page
+Magma Infotech Blog page
 
 style.css include all css files
 Path : assets/css/style.css
